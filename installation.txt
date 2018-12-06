@@ -1,0 +1,7 @@
+Installation guide
+
+1. this is the first step to be performed
+2. this will be the second
+3. obviously this will be the third instruction
+4. following third will be forth
+5. finally fifth 
