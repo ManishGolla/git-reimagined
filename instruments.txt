@@ -1,5 +1,3 @@
 This is to instruct you all of the guidelines to be followed
-
-Please refer to the website
-
+ line added by nithya
 created a line to understand pull requests
